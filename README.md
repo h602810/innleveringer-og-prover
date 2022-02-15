@@ -11,7 +11,7 @@
 ##### JUnit-tester for klassene i oblig 3
 <p align="center">
 	<img src="https://i.imgur.com/7bAFdtA.png" width="200"/><img src="https://i.imgur.com/ACckW1Y.png"/>
-</p> <br>
+</p>
 
 ## 2. semester
 | Oblig/Skoleprøve | Info | Gruppe m/ medlemer |

@@ -9,8 +9,9 @@
 | skoleproveU37 | Obligatorisk skoleprøve i DAT100, del 2 av prøven. | - |
 | skoleproveU45 | Obligatorisk skoleprøve i DAT100 gjort via WiseFlow. | - |
 <p align="center">
-	<h4>JUnit-tester for klassene i oblig 3</h4> 
-	<br>
+	<h4 style="bold">JUnit-tester for klassene i oblig 3.</h4>
+</p>
+<p align="center">
 	<img src="https://i.imgur.com/7bAFdtA.png" width="200"/><img src="https://i.imgur.com/ACckW1Y.png"/>
 </p>
 

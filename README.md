@@ -14,5 +14,6 @@
 </p> <br>
 
 ## 2. semester
-#### Oblig1
-Obligatorisk innlevering av kodeoppgaver fra Øving 2 og 3.
+| Oblig/Skoleprøve | Info | Gruppe m/ medlemer |
+|:----------------:|:--------:|:------------------:|
+|   oblig1  | Obligatorisk innlevering av kodeoppgaver fra Øving 2 og 3. | G27 <br> @A599024 @D596242 @ab596213 |

@@ -8,8 +8,8 @@
 |   oblig3  | Obligatorisk innlevering av oppgaver knyttet til skriving av kode til et blogg-system på nettet. | gruppe 10: <br> @A599024 @D596242 @ab596213 |
 | skoleproveU37 | Obligatorisk skoleprøve i DAT100, del 2 av prøven. | - |
 | skoleproveU45 | Obligatorisk skoleprøve i DAT100 gjort via WiseFlow. | - |
-##### JUnit-tester for klassene i oblig 3
 <p align="center">
+	##### JUnit-tester for klassene i oblig 3
 	<img src="https://i.imgur.com/7bAFdtA.png" width="200"/><img src="https://i.imgur.com/ACckW1Y.png"/>
 </p>
 

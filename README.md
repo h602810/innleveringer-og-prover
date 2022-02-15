@@ -18,3 +18,8 @@ Obligatorisk innlevering av oppgaver knyttet til skriving av kode til et blogg-s
 Obligatorisk skoleprøve i DAT100, del 2 av prøven. 
 #### Skoleprøve uke 45 H2021
 Obligatorisk skoleprøve i DAT100 gjort via WiseFlow.
+
+
+## 2. semester
+#### Oblig1
+Obligatorisk innlevering av kodeoppgaver fra Øving 2 og 3.

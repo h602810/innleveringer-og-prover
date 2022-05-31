@@ -26,6 +26,8 @@ public class KlientKoe {
 			System.out.print(e.getMessage());
 
 		}
+		
+		
 	}
 
 }

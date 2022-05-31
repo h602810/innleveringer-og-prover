@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="oblig1 - oppg2&amp;3"/>
-	<classpathentry kind="src" path="oblig1 - oppg4"/>
+	<classpathentry kind="src" path="oblig1 - oving2&amp;3"/>
+	<classpathentry kind="src" path="oblig1 - oving3 - oppg4"/>
+	<classpathentry kind="src" path="oblig3 - oving6"/>
+	<classpathentry kind="src" path="oblig3 - oving8"/>
+	<classpathentry kind="src" path="oblig2 - oving4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="oblig2 - oving5 - oppg4"/>
+	<classpathentry kind="src" path="oblig2 - oving5 - oppg1 + test"/>
+	<classpathentry kind="src" path="oblig2 - oving5 - oppg2"/>
+	<classpathentry kind="src" path="oblig2 - oving5 - oppg3 + test"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

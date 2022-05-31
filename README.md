@@ -17,3 +17,5 @@
 | Oblig/Skoleprøve | Info | Gruppe m/ medlemer |
 |:----------------:|:--------:|:------------------:|
 |   oblig1  | Obligatorisk innlevering av kodeoppgaver fra Øving 2 og 3. | gruppe 27: <br> @A599024 @D596242 @ab596213 |
+|   oblig2  | Obligatorisk innlevering av kodeoppgaver fra Øving 4 og 5. | gruppe 27: <br> @A599024 @D596242 @ab596213 |
+|   oblig3  | Obligatorisk innlevering av kodeoppgaver fra Øving 6, 7 og 8. | gruppe 69: <br> @A599024 @D596242 @ab596213 |
